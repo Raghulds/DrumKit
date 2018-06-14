@@ -1,0 +1,35 @@
+.key{
+   color: white;
+   border: 4px solid black;
+   border-radius: 5px;
+   text-align: center;
+   transition: all 0.07s;
+   margin-left: 23px;
+   width: 100px;
+   padding: 1rem .5rem;
+   text-shadow: 0 0 5px black;
+}
+span{
+	
+	text-align: center;
+	font-weight: 10px;
+	letter-spacing: 1px;
+	color: #ffc600;
+
+}
+body{
+    background-image: url(audience.jpg);
+}
+.playing{
+    transform: scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0 10px #ffc600;
+}
+kbd{
+	font-size: 40px;
+	display: block;
+}
+.keys {
+ display: inline-flex;
+ margin-top: 300px;
+}
